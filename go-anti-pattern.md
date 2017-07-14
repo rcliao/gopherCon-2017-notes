@@ -84,5 +84,3 @@ The bigger the interface, the weaker the abstraction.
 ### Empty `interface{}`
 
 User the interface for unknown data; otherwise don't use it.
-
-
